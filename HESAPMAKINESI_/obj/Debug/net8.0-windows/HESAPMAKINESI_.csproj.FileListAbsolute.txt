@@ -1,0 +1,16 @@
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\bin\Debug\net8.0-windows\HESAPMAKINESI_.exe
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\bin\Debug\net8.0-windows\HESAPMAKINESI_.deps.json
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\bin\Debug\net8.0-windows\HESAPMAKINESI_.runtimeconfig.json
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\bin\Debug\net8.0-windows\HESAPMAKINESI_.dll
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\bin\Debug\net8.0-windows\HESAPMAKINESI_.pdb
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.Form1.resources
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.csproj.GenerateResource.cache
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.AssemblyInfoInputs.cache
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.AssemblyInfo.cs
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.csproj.CoreCompileInputs.cache
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.dll
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\refint\HESAPMAKINESI_.dll
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.pdb
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\HESAPMAKINESI_.genruntimeconfig.cache
+C:\Users\earda\OneDrive\Masaüstü\C#\HESAPMAKINESI_\HESAPMAKINESI_\obj\Debug\net8.0-windows\ref\HESAPMAKINESI_.dll
